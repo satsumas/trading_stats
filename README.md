@@ -1,4 +1,4 @@
-##iPython notebook for benchmarking trading strategies
+## iPython notebook for benchmarking trading strategies
 
 The notebook outputs statistics on the performance of
 your cryptocurrency trading algorithm on [GDAX](https://www.gdax.com/). By default, the notebook shows trading in BTC
@@ -20,6 +20,6 @@ and EUR, but can be adapted to any currency pair.
 to see performance statistics for your trading algorithm versus holding the same 
 currency over the same time period. 
 
-##Sample output
+## Sample output
 
 ![Sample figure produced by the notebook](/sample_output.png)
